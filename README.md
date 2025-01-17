@@ -11,7 +11,7 @@ Technical Architect specializing in Search Systems, Machine Learning, and AI Sol
 - Java (Full Professional)
 - Kotlin (Professional Working)
 - C++ (Professional Working)
-- Golang (Professional Working)
+- Rust (Professional Working)
 ```
 
 ## Technical Expertise
