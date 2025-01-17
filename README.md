@@ -12,6 +12,7 @@ Technical Architect specializing in Search Systems, Machine Learning, and AI Sol
 - Kotlin (Professional Working)
 - C++ (Professional Working)
 - Rust (Professional Working)
+- Zig (Professional Working)
 ```
 
 ## Technical Expertise
