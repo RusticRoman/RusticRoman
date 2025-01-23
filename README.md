@@ -49,3 +49,4 @@ Technical Architect specializing in Search Systems, Machine Learning, and AI Sol
 ## Certifications
 - Think Like A Relevance Engineer Solr
 - Hello Learning-To-Rank Training
+- 
