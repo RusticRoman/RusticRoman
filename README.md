@@ -5,6 +5,7 @@ Technical Architect specializing in Search Systems, Machine Learning, and AI Sol
 ## Skills
 
 **Programming Languages**
+
 ```markdown
 - Java (Full Professional)
 - Scala (Full Professional)
