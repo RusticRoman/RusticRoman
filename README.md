@@ -3,7 +3,6 @@
 Technical Architect specializing in Search Systems, Machine Learning, and AI Solutions
 
 ## Skills
-
 **Programming Languages**
 
 ```markdown
