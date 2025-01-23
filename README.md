@@ -48,6 +48,5 @@ Technical Architect specializing in Search Systems, Machine Learning, and AI Sol
 - Belarusian National Technical University | BS, Computer Design and Engineering
 
 ## Certifications
-
 - Think Like A Relevance Engineer Solr
 - Hello Learning-To-Rank Training
