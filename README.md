@@ -43,7 +43,6 @@ Technical Architect specializing in Search Systems, Machine Learning, and AI Sol
 - Kroger Technology | Senior Software Engineer
 
 ## Education
-
 - University of Michigan-Dearborn | Computer Science
 - Belarusian National Technical University | BS, Computer Design and Engineering
 
