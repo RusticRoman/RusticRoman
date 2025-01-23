@@ -6,10 +6,10 @@ Technical Architect specializing in Search Systems, Machine Learning, and AI Sol
 
 **Programming Languages**
 ```markdown
-- Python (Full Professional)
-- Scala (Full Professional)
 - Java (Full Professional)
+- Scala (Full Professional)
 - Kotlin (Professional Working)
+- Python (Full Professional)
 - C++ (Professional Working)
 - Rust (Professional Working)
 - Zig (Professional Working)
